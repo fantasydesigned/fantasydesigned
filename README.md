@@ -28,7 +28,7 @@
 
 ## 📚 Education & Coursework
 
-🎓 **Bachelor's in Information Technology (AI Specialization)**  
+🎓 **Bachelor's in Information Technology**  
 *Capella University | Expected: Late 2025*
 
 **Relevant Courses:**
