@@ -12,8 +12,10 @@
 - Web Development (HTML/CSS, JavaScript)
 
 📁 Featured Projects:
-- ✅ Volunteer Management Database in SQL
-- 
+- ✅ [**Volunteer Management Database**](https://github.com/fantasydesigned/SampleSQLDatabase) — Normalized SQL schema with insert scripts and JOIN queries
+- 🌐 [**TravelGoals Website**](https://github.com/fantasydesigned/html-travelgoals) — Static HTML/CSS project promoting travel destinations with responsive design
+- 🖼️ [**Photo Blog Gallery**](https://github.com/fantasydesigned/html-photogallery) — A minimalist photo blog built with HTML/CSS showcasing a personal image gallery
+  
 📁 Featured Projects (Coming Soon):
 - ✅ RESTful Ticket System in Java
 - ✅ AI-Powered Decision Bot (Capstone)
