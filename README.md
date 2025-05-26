@@ -11,8 +11,10 @@
 - Machine Learning & AI Concepts
 - Web Development (HTML/CSS, JavaScript)
 
-📁 Featured Projects (Coming Soon):
+📁 Featured Projects:
 - ✅ Volunteer Management Database in SQL
+- 
+📁 Featured Projects (Coming Soon):
 - ✅ RESTful Ticket System in Java
 - ✅ AI-Powered Decision Bot (Capstone)
 - 📦 SAP Labeling Workflow Docs
