@@ -1,70 +1,98 @@
+# 👋 Hi, I’m Jamie (aka fantasydesigned)  
 
-# 👋 Hi, I'm Jamie (aka fantasydesigned)
-
-🎯 I’m an aspiring IT professional currently pursuing a Bachelor's degree in **Information Technology** at **Capella University**. I bring hands-on experience in technical auditing, labeling systems (SAP), and quality assurance, alongside strong foundational training in both software and hardware systems.
-
-🔍 I'm passionate about creating practical, smart technology—from full-stack Java projects to SQL databases, user-focused frontends, and AI-powered tools.
-
----
-
-## 🧠 Skills & Technologies
-
-- 💻 Java (Spring Boot), HTML, CSS, JavaScript
-- 🐬 SQL (MariaDB, DBeaver), ERD & Relational Design
-- 🧠 AI Concepts, Machine Learning Foundations
-- 🖥️ Hardware, OS Admin (Windows/Linux), IT Support Tools
-- 🧩 Project Management (Agile, PMBOK 7), Technical Documentation
-- 🛠️ Tools: SAP S/4HANA, Git, GitHub, VS Code, Postman
+🎯 **Motivated IT & Project Management Professional**  
+📚 Currently pursuing a **Bachelor’s in Information Technology (Project Management Specialization)** at Capella University  
+🏆 **Google IT Support Certified | CAPM & CompTIA A+ Candidate | NSLS Honor Society Member**  
 
 ---
 
-## 📁 Featured Projects
+## 🔍 About Me  
 
-- ✅ [**Volunteer Management Database (SQL)**](https://github.com/fantasydesigned/SampleSQLDatabase) — Normalized database with insert scripts, JOINs, views, and a fictional schema design
-- 🌐 [**TravelGoals Website**](https://github.com/fantasydesigned/html-travelgoals) — A responsive travel brochure-style site built with HTML and CSS
-- 🖼️ [**Photo Blog Gallery**](https://github.com/fantasydesigned/html-photogallery) — A static HTML/CSS gallery designed as a clean, minimalist photo blog
+I’m passionate about building **practical, user-focused technology solutions**—from full-stack Java projects and SQL databases to responsive web frontends and IT support workflows.  
 
----
+I bring hands-on experience with **technical auditing, SAP S/4HANA labeling systems, and quality assurance**, alongside a growing skill set in **IT support, project coordination, and emerging technologies**.  
 
-## 📚 Education & Coursework
-
-🎓 **Bachelor's in Information Technology**  
-*Capella University | Expected: Late 2025*
-
-**Relevant Courses:**
-- Introduction to Database Systems
-- Foundations of Project Management
-- Network Technology and Architecture
-- Web Development & JavaScript
-- Software Architecture & UX Design
-- Java Programming
-- Hardware & OS Administration
-- Project Management Principles (PMBOK® Guide – 7th Ed)
-- Goals & Ethics for the IT Professional
+I’m also a proud member of the **National Society of Leadership and Success (NSLS)**, where I completed the *Foundations of Leadership Program* focused on inclusive leadership, goal setting, and team collaboration.  
 
 ---
 
-## 📜 Certifications
+## 🧠 Skills & Technologies  
 
-- 🏆 Google IT Support Certificate (2023)
-- 📘 Digital Literacy Certificate (2022)
+💻 **Languages & Frameworks:**  
+- Java (Spring Boot)  
+- HTML5, CSS, JavaScript  
+
+🐬 **Databases:**  
+- SQL (MariaDB, DBeaver), ERD & Relational Design  
+
+🧠 **AI & Data:**  
+- Machine Learning Foundations, AI Concepts  
+
+🖥️ **IT & Systems:**  
+- Hardware, OS Administration (Windows/Linux), IT Support Tools  
+
+🧩 **Project Management:**  
+- Agile, PMBOK® 7, Technical Documentation  
+
+🛠️ **Tools:**  
+- SAP S/4HANA, Git, GitHub, VS Code, Postman, Jira, Trello  
 
 ---
 
-## 💼 Professional Experience
+## 📁 Featured Projects  
 
-- **Technical Auditor** at ZF — Quality inspections, SAP labeling, LCC compliance tracking  
-- **Past roles** include Walmart, Red Robin, and Ventra — Customer service, POS, and quality control
+✅ **Volunteer Management Database (SQL)**  
+*Normalized database with insert scripts, JOINs, views, and a fictional schema design*  
+
+🌐 **TravelGoals Website**  
+*A responsive travel brochure-style site built with HTML and CSS*  
+
+🖼️ **Photo Blog Gallery**  
+*A minimalist static HTML/CSS gallery designed as a simple photo blog*  
+
+💡 **Upcoming:** RESTful Ticket Management System (Java + Spring Boot)  
 
 ---
 
-## 📫 Let’s Connect
+## 📚 Education & Certifications  
 
-- [LinkedIn](https://www.linkedin.com/in/fantasydesigned/)
-- [Email](mailto:fantasydesigned@gmail.com)
+🎓 **Bachelor’s in Information Technology (Project Management Specialization)**  
+Capella University | *Expected: Late 2025*  
+
+**Relevant Coursework:**  
+- Introduction to Database Systems  
+- Foundations of Project Management  
+- Network Technology & Architecture  
+- Web Development & JavaScript  
+- Software Architecture & UX Design  
+- Hardware & OS Administration  
+- Project Management Principles (PMBOK® Guide – 7th Ed)  
+- Goals & Ethics for the IT Professional  
+
+📜 **Certifications:**  
+🏆 Google IT Support Certificate (2023)  
+📘 Digital Literacy Certificate (2022)  
+⏳ *Upcoming:* CAPM – Certified Associate in Project Management | CompTIA A+  
 
 ---
 
-> 🧭 *“The best thing anyone can do is to always keep learning and grow your knowledge.”*
+## 💼 Professional Experience  
+
+**Technical Auditor – ZF**  
+- Quality inspections, SAP labeling, LCC compliance tracking, and process audits  
+
+**Past Roles – Walmart, Red Robin, Ventra**  
+- Customer service, POS systems, quality control, and team collaboration  
+
+---
+
+## 📫 Let’s Connect  
+
+- 💼 [LinkedIn](your-linkedin-url)  
+- 🐙 [GitHub](your-github-url)  
+- ✉ **fantasydesigned@gmail.com**  
+
+🧭 *“The best thing anyone can do is to always keep learning and grow their knowledge.”*  
+
 
 
